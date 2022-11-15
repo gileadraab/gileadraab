@@ -26,4 +26,4 @@
 #### 💬 Find me elsewhere
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilead-raab/)](https://www.linkedin.com/in/gilead-raab/) 
-[![Gmail Badge](https://img.shields.io/badge/-gileadraab@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gileadraab@gmail.com)](mailto:gileadraab@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gileadraab@gmail.com)](mailto:gileadraab@gmail.com)
