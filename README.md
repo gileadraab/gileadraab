@@ -8,7 +8,7 @@
 
 🛠️ TypeScript, JavaScript  
 🌎 Reactjs, HTML, CSS  
-🌐 MySQL  
+🌐 SQL  
 🔗 Express  
 
 
