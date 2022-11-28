@@ -14,7 +14,6 @@
 
 #### Im currently learning
 :snake: Python   
-:whale: Docker
 
 #### Courses
 🎓 Full Stack Web Development at [Labenu](https://www.labenu.com.br/)  
