@@ -20,7 +20,7 @@
 #### Courses
 🎓 Full Stack Web Development at [Labenu](https://www.labenu.com.br/)  
 🔬 CS50's Introduction to Computer Science at [CS50x](https://cs50.harvard.edu/x/2022/)  
-🐍 CS50's Introduction to Programming with Python at [CS50p](https://cs50.harvard.edu/python/2022) (in progress...)  
+🐍 CS50's Introduction to Programming with Python at [CS50p](https://cs50.harvard.edu/python/2022)
 
 
 
