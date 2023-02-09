@@ -6,14 +6,16 @@
 
 #### My current tools 
 
+:snake: Python 
 🛠️ TypeScript, JavaScript  
 🌎 Reactjs, HTML, CSS  
 🌐 SQL  
-🔗 Express  
+🔗 Express
 
 
 #### Im currently learning
-:snake: Python   
+:pick: Beautiful Soup
+
 
 #### Courses
 🎓 Full Stack Web Development at [Labenu](https://www.labenu.com.br/)  
