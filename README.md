@@ -6,9 +6,9 @@
 
 #### My current tools 
 
-:snake: Python  
+:snake: Python, Flask  
 🛠️ TypeScript, JavaScript  
-🌎 Reactjs, HTML, CSS  
+🌎 ReactJS, HTML, CSS  
 🌐 SQL  
 🔗 Express
 
