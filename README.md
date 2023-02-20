@@ -6,7 +6,7 @@
 
 #### My current tools 
 
-:snake: Python 
+:snake: Python  
 🛠️ TypeScript, JavaScript  
 🌎 Reactjs, HTML, CSS  
 🌐 SQL  
