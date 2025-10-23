@@ -43,7 +43,7 @@ Currently, I'm expanding my skills into **Data Science**, **AI Engineering**, an
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DB2914?style=flat&logo=python&logoColor=white)
 
 #### 🧪 Others
-[![Claude Code](https://img.shields.io/badge/ClaudeCode-D97757?style=flat&logo=anthropic&logoColor=white)](https://docs.claude.com/en/home)
+[![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)](https://docs.claude.com/en/home)
 ![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat&logo=fastapi&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-Paradigm-764ABC?style=flat&logo=python&logoColor=white)
 
